@@ -7,7 +7,9 @@ HAHOW 課程
 
 ![image](https://github.com/Yan-Ju-Wang/50-Plus-Exercises-in-Python-Data-Science-Study-Manual/assets/125424141/b8fe32c7-42c9-4ad3-afd7-182126a564f7)
 1-1 簡介
+
 1-2 使用資料類別運算顯示與判斷
+
 1-3 使用資料結構類別管理資料
 1-4 使用流程控制管理程式區塊的執行次數
 1-5 使用函數組織程式碼
